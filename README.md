@@ -12,7 +12,7 @@
  
  
 # Uses example:
-...
+
 ```php
 <?php
 echo do_shortcode('[inform_correct_metadata 
@@ -24,4 +24,4 @@ echo do_shortcode('[inform_correct_metadata
                     update_on_count="10"
                   ]');
 ?>
-...
+```
