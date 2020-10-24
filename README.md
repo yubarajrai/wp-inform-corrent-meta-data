@@ -12,7 +12,9 @@
  
  
 # Uses example:
-
+...
+```php
+<?php
 echo do_shortcode('[inform_correct_metadata 
                     post_type="post" 
                     post_id="22" 
@@ -21,3 +23,5 @@ echo do_shortcode('[inform_correct_metadata
                     default_data="First Item" 
                     update_on_count="10"
                   ]');
+?>
+...
